@@ -29,7 +29,7 @@ int main()
 	cin >> fuel;
 	cout << "fuel: " << fuel << endl;
 	typedef unsigned short int ushort;
-	ushort bonus = 10;
+	ushort bonus = 148.8;
 	cout << "\nbonus: " << bonus << endl;
 	return 0;
 
