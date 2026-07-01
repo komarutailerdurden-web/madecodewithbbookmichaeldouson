@@ -4,3 +4,7 @@ Hey, i just send my code. I made him with book
 ## My progress:
  ** * **Chapter 1** ** *: "game stats" program. Figured out dara types, variables, and user input via "cin". Code successfully launched
 2026.07.01
+uploads:
+2026.07.02
+made new uploads: game stats 2.0!
+
